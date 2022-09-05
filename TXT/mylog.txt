@@ -9,4 +9,5 @@ ZCZC W00 L22 30 Experimenting with Debian
 ZCZC W00 L26 20 Accessing my OS tarball from the terminal
 ZCZC W00 L06 45 Reading up on OS slides for next class
 ZCZC W00 L01 100 Zoom lecture for Operating System class
-
+ZCZC W00 L11 70 Assignment for Week 01
+ZCZC W01 L04 45 Updating repository and GH Page
