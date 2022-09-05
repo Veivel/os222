@@ -1,5 +1,6 @@
+---
 permalink: LINKS/
-
+---
 # SETTING UP WITH M1
 
 1. [UTM](https://mac.getutm.app/)<br>
