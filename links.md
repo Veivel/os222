@@ -1,4 +1,6 @@
-# LINKS
+permalink: LINKS/
+
+# SETTING UP WITH M1
 
 1. [UTM](https://mac.getutm.app/)<br>
 
@@ -11,4 +13,4 @@
   almost identically to WinSCP, though you may first need to run the Configuration Wizard under `Settings > FTP > Overview`. Make sure passive mode is
   prioritized and enable your external IP address if given the option.
 
-2. 
+3. 
