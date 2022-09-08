@@ -13,3 +13,4 @@ ZCZC W00 L11 70 Assignment for Week 01
 ZCZC W01 L04 45 Updating repository and GH Page
 ZCZC W01 L01 100 OS Zoom lecture, Week 1
 ZCZC W01 L06 90 Reading Chapter 18 of OSC10
+ZCZC W01 L01 100 OS Zoom lecture, Week 2
