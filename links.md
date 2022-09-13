@@ -22,4 +22,10 @@ permalink: LINKS/
   
 ## Week 02
 
-1. ...
+1. [RegexOne](https://regexone.com/)<br>
+
+  Where to start with Regex? This website provides step-by-step lessons for understanding Regex while still giving you freedom to experiment with it along the way.
+
+2. [What is a Checksum?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)<br> 
+  
+  After doing the Week 02 assignments, you may have questions about the SHA checksum and myscript.sh. I know I did, but fortunately this page along with Pak RMS' thorough explanation had made clear what exactly  myscript.sh does.
