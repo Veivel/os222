@@ -29,3 +29,7 @@ permalink: LINKS/
 2. [What is a Checksum?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)<br> 
   
   After doing the Week 02 assignments, you may have questions about the SHA checksum and myscript.sh. I know I did, but fortunately this page along with Pak RMS' thorough explanation had made clear what exactly  myscript.sh does.
+
+3. Intro to C:  [Tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.htm) and [JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
+
+  The two links above are excellent complements to Week 02's C Programming Demos.

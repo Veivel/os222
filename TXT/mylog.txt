@@ -18,5 +18,5 @@ ZCZC W01 L01 130 Week 1 assignment: GitHub, Dressing up Debian, etc.
 ZCZC W02 L06 50 Reading part of Chapter 16, OSC10
 ZCZC W02 L12 60 Assignment for Week 02 
 ZCZC W02 L01 100 OS Zoom lecture
-
+ZCZC W02 L25 115 Learning C and trying Week 2 demos
 
