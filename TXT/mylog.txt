@@ -19,4 +19,4 @@ ZCZC W02 L06 50 Reading part of Chapter 16, OSC10
 ZCZC W02 L12 60 Assignment for Week 02 
 ZCZC W02 L01 100 OS Zoom lecture
 ZCZC W02 L25 115 Learning C and trying Week 2 demos
-
+ZCZC W02 L12 150 Contuining and fixing Week 02 assignments
