@@ -22,6 +22,9 @@ RESDIR="$HOME/RESULT/"
 usage()  { echo "Usage: $0 [-w <WEEK>]" 1>&2; exit 1; }
 nolink() { echo "No LINK $1"            1>&2; exit 1; }
 
+# EDIT by veivel (change directory)
+cd $HOME/git/os222/TXT
+
 # Check current WEEK
 unset WEEK DEFAULT
 if [ ! -z "${1##*[!0-9]*}" ] ; then
