@@ -20,4 +20,10 @@ ZCZC W02 L12 60 Assignment for Week 02
 ZCZC W02 L01 100 OS Zoom lecture
 ZCZC W02 L25 115 Learning C and trying Week 2 demos
 ZCZC W02 L12 150 Contuining and fixing Week 02 assignments
+ZCZC W03 L22 180 Troubleshooting and fixing errors on Debian VM
 ZCZC W03 L02 100 OS Zoom lecture (20 September)
+ZCZC W03 L13 60 Working on Week 03 assignments + troubleshooting UTM
+ZCZC W03 L05 80 Studying and doing the initially broken Week 3 Quiz 2
+ZCZC W03 L05 15 Redoing Week 3 Quiz 2
+ZCZC W03 L02 100 Offline OS lecture! (22 September)
+ZCZC W03 L13 120 Finishing Week 03 assignments

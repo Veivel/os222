@@ -33,3 +33,18 @@ permalink: LINKS/
 3. Intro to C:  [Tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.htm) and [JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
 
   The two links above are excellent complements to Week 02's C Programming Demos.
+
+## Week 03
+
+1. [UIC OS Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+
+  I found this while trying to learn about File Systems. This page contains a concise summary of each chapter from Silberschatz's OSC textbook, eighth edition. Do note that the edition difference means not everything is up-to-date.
+
+2. [tldr.sh](https://tldr.sh/)
+
+  TLDR is a man-like package that serves as a tldr page for various commands and packages, instead of an in-depth manual (like man). A friend told me about this and I found this handy while trying to understand new linux commands. 
+
+3. [Intro to Linux filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)
+
+  The page above is a good read to prepare for Week 03 assignments. It helps to really understand what you're doing instead of copy-pasting commands.
+
