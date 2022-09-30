@@ -48,3 +48,13 @@ permalink: LINKS/
 
   The page above is a good read to prepare for Week 03 assignments. It helps to really understand what you're doing instead of copy-pasting commands.
 
+# Week 04
+
+1. [Virtual Memory: A Playlist](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
+
+  The playlist above provides excellent explanations into certain areas about Virtual Memory. I specifically found the video on Page Tables helpful.
+
+2. [Pointers in C](https://youtu.be/mw1qsMieK5c)
+
+  This week we delve deeper into C, with a highlight on pointers. My Week 02 links have been a good place to start, but the video above explains it in more detail.
+

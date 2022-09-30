@@ -27,3 +27,10 @@ ZCZC W03 L05 80 Studying and doing the initially broken Week 3 Quiz 2
 ZCZC W03 L05 15 Redoing Week 3 Quiz 2
 ZCZC W03 L02 100 Offline OS lecture! (22 September)
 ZCZC W03 L13 120 Finishing Week 03 assignments
+ZCZC W03 L05 30 Preparing and doing Quiz 01 W03
+ZCZC W04 L01 100 OS Zoom lecture (27 September)
+ZCZC W04 L14 90 Doing Week 04 assignments
+ZCZC W04 L02 100 Offline OS lecture (29 September)
+ZCZC W04 L05 60 Preparing and doing W04 Quiz 2
+ZCZC W04 L25 70 Trying out W04 demos and making a tarball script
+ZCZC W04 L05 45 Preparing for W04 Quiz 1 
