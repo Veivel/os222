@@ -1,36 +1,46 @@
-# Log Format
+# ------ LogCode + Description List: -------
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# --------------- Log Format ---------------
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
-ZCZC W00 L03 20 GitHub related
-ZCZC W00 L99 30 Getting to the Fasilkom library
-ZCZC W00 L01 100 Zoom lecture for Operating System class
-ZCZC W00 L99 15 Walking back to dorm from campus
-ZCZC W00 L22 30 Experimenting with Debian
-ZCZC W00 L26 20 Accessing my OS tarball from the terminal
-ZCZC W00 L06 45 Reading up on OS slides for next class
-ZCZC W00 L01 100 Zoom lecture for Operating System class
-ZCZC W00 L11 70 Assignment for Week 01
-ZCZC W01 L04 45 Updating repository and GH Page
-ZCZC W01 L01 100 OS Zoom lecture, Week 1
-ZCZC W01 L06 90 Reading Chapter 18 of OSC10
-ZCZC W01 L01 100 OS Zoom lecture, Week 1
-ZCZC W01 L01 130 Week 1 assignment: GitHub, Dressing up Debian, etc.
-ZCZC W02 L06 50 Reading part of Chapter 16, OSC10
-ZCZC W02 L12 60 Assignment for Week 02 
-ZCZC W02 L01 100 OS Zoom lecture
-ZCZC W02 L25 115 Learning C and trying Week 2 demos
-ZCZC W02 L12 150 Contuining and fixing Week 02 assignments
-ZCZC W03 L22 180 Troubleshooting and fixing errors on Debian VM
-ZCZC W03 L02 100 OS Zoom lecture (20 September)
-ZCZC W03 L13 60 Working on Week 03 assignments + troubleshooting UTM
-ZCZC W03 L05 80 Studying and doing the initially broken Week 3 Quiz 2
-ZCZC W03 L05 15 Redoing Week 3 Quiz 2
-ZCZC W03 L02 100 Offline OS lecture! (22 September)
-ZCZC W03 L13 120 Finishing Week 03 assignments
-ZCZC W03 L05 30 Preparing and doing Quiz 01 W03
-ZCZC W04 L01 100 OS Zoom lecture (27 September)
-ZCZC W04 L14 90 Doing Week 04 assignments
-ZCZC W04 L02 100 Offline OS lecture (29 September)
-ZCZC W04 L05 60 Preparing and doing W04 Quiz 2
-ZCZC W04 L25 70 Trying out W04 demos and making a tarball script
-ZCZC W04 L05 45 Preparing for W04 Quiz 1 
+# e.g. ZCZC W01 120 L01 Zoom-related
+# ------------------------------------------
+ZCZC W00 20 L03 GitHub related
+ZCZC W00 30 L99 Getting to the Fasilkom library
+ZCZC W00 100 L01 Zoom lecture for Operating System class
+ZCZC W00 15 L99 Walking back to dorm from campus
+ZCZC W00 30 L22 Experimenting with Debian
+ZCZC W00 20 L26 Accessing my OS tarball from the terminal
+ZCZC W00 45 L06 Reading up on OS slides for next class
+ZCZC W00 100 L01 Zoom lecture for Operating System class
+ZCZC W00 70 L11 Assignment for Week 01
+ZCZC W01 45 L04 Updating repository and GH Page
+ZCZC W01 100 L01 OS Zoom lecture, Week 1
+ZCZC W01 90 L06 Reading Chapter 18 of OSC10
+ZCZC W01 100 L01 OS Zoom lecture, Week 1
+ZCZC W01 130 L01 Week 1 assignment: GitHub, Dressing up Debian, etc.
+ZCZC W02 50 L06 Reading part of Chapter 16, OSC10
+ZCZC W02 60 L12 Assignment for Week 02 
+ZCZC W02 100 L01 OS Zoom lecture
+ZCZC W02 115 L25 Learning C and trying Week 2 demos
+ZCZC W02 150 L12 Contuining and fixing Week 02 assignments
+ZCZC W03 180 L22 Troubleshooting and fixing errors on Debian VM
+ZCZC W03 100 L02 OS Zoom lecture (20 September)
+ZCZC W03 60 L13 Working on Week 03 assignments + troubleshooting UTM
+ZCZC W03 80 L05 Studying and doing the initially broken Week 3 Quiz 2
+ZCZC W03 15 L05 Redoing Week 3 Quiz 2
+ZCZC W03 100 L02 Offline OS lecture! (22 September)
+ZCZC W03 120 L13 Finishing Week 03 assignments
+ZCZC W03 30 L05 Preparing and doing Quiz 01 W03
+ZCZC W04 100 L01 OS Zoom lecture (27 September)
+ZCZC W04 90 L14 Doing Week 04 assignments
+ZCZC W04 100 L02 Offline OS lecture (29 September)
+ZCZC W04 60 L05 Preparing and doing W04 Quiz 2
+ZCZC W04 70 L25 Trying out W04 demos and making a tarball script
+ZCZC W04 45 L05 Preparing for W04 Quiz 1 
+ZCZC W05 60 L15 Doing Week 05 assignments
+ZCZC W05 100 L01 OS Zoom lecture (3 October)
+ZCZC W05 30 L41 Fixing mylog.txt to the correct format
+ZCZC W05 45 L15 Continuing Week 05 assignments, including pop quiz
+ZCZC W05 100 L01 OS offline lecture (5 October)
+ZCZC W05 40 L05 Doing W05 Quiz 02
+ZCZC W05 90 L15 Finishing Week 05 assignments, including memory

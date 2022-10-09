@@ -58,3 +58,16 @@ permalink: LINKS/
 
   This week we delve deeper into C, with a highlight on pointers. My Week 02 links have been a good place to start, but the video above explains it in more detail.
 
+# Week 05
+
+1. [Understanding Page Faults](https://www.site24x7.com/learn/linux/page-faults-memory-swapping.html)
+
+  This article explains the concept of page faults very well, even goes through memory swapping and more.
+
+2. [Basics of Virtual Memory](https://youtu.be/8yO2FBBfaB0)
+
+  This video from MIT OCW is a good starter to understand the idea of paging.
+
+3. [Virtual Address Space](https://www.techtarget.com/searchstorage/definition/address-space)
+
+  This article from Techtarget explains about Virtual vs Physical memory, as well as what address space is. The page also demonstrates how interconnected W04 and W05 are.

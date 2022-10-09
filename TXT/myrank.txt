@@ -11,3 +11,7 @@ ZCZC W03 ahmadhanif3
 ZCZC W04 andiraihan
 ZCZC W04 arkanalexei
 ZCZC W04 asta-kunn
+# W05: 26 - 35
+ZCZC W05 bagas-shalahuddin
+ZCZC W05 bayurisma29
+ZCZC W05 bintangbhp
