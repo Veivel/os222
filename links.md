@@ -71,3 +71,17 @@ permalink: LINKS/
 3. [Virtual Address Space](https://www.techtarget.com/searchstorage/definition/address-space)
 
   This article from Techtarget explains about Virtual vs Physical memory, as well as what address space is. The page also demonstrates how interconnected W04 and W05 are.
+
+# Week 06
+
+1. [Upgrading Linux Kernel](https://linuxhint.com/upgrade-linux-kernel-version-debian-10/)
+
+  This guide on upgrading your kernel is comprehensive and useful to refer back if ever needed again.
+
+2. [pstree manual](https://man7.org/linux/man-pages/man1/pstree.1.html)
+
+  While pstree is not installed by default, this command is a useful tool to help visualize processes and their child threads.
+
+3. [How to Clean a Linux Zombie](https://www.baeldung.com/linux/clean-zombie-process)
+
+  One of the main points of interest this week were zombie & orphan processes. The page above helps to get a better understanding of zombies in particular.

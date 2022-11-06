@@ -15,3 +15,7 @@ ZCZC W04 asta-kunn
 ZCZC W05 bagas-shalahuddin
 ZCZC W05 bayurisma29
 ZCZC W05 bintangbhp
+# W06: 36 - 45
+ZCZC W06 christophernw
+ZCZC W06 cinvetsin
+ZCZC W06 danenherdi

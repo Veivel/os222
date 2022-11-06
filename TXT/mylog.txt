@@ -44,3 +44,9 @@ ZCZC W05 45 L15 Continuing Week 05 assignments, including pop quiz
 ZCZC W05 100 L01 OS offline lecture (5 October)
 ZCZC W05 40 L05 Doing W05 Quiz 02
 ZCZC W05 90 L15 Finishing Week 05 assignments, including memory
+ZCZC W06 100 L01 OS offline lecture (1 November)
+ZCZC W06 70 L06 Reading up on OSC10 for the week's materials
+ZCZC W06 100 L01 OS offline lecture at the auditorium (3 November)
+ZCZC W06 25 L05 Preparing for and doing Week 06 Quiz 2
+ZCZC W06 60 L05 Preparing for and doing Week 06 Quiz 1
+ZCZC W06 80 L16 Finishing Week 06 assignments and pop quiz.
