@@ -3,7 +3,7 @@ permalink: LINKS/
 ---
 # LINKS
 
-## Setting Up with M1 (Week 00 - 01)
+## Week 00 - 01: Setting up with M1
 
 1. [UTM](https://mac.getutm.app/)<br>
 
@@ -20,7 +20,7 @@ permalink: LINKS/
 
   Being a Mac M1 user has exactly one benefit in the Operating Systems course: familiarity with Bash (or Bash-based, like Zsh) scripting languages. The       video linked is not exactly a tutorial but it gives a pretty neat big-picture view of it. Bash is ESSENTIAL to making the most use of Linux (and Mac, to   an extent) so don't hesitate to search for more in-depth Bash guides.
   
-## Week 02
+## Week 02: Getting Settled
 
 1. [RegexOne](https://regexone.com/)<br>
 
@@ -34,7 +34,7 @@ permalink: LINKS/
 
   The two links above are excellent complements to Week 02's C Programming Demos.
 
-## Week 03
+## Week 03: File Systems
 
 1. [UIC OS Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 
@@ -48,7 +48,7 @@ permalink: LINKS/
 
   The page above is a good read to prepare for Week 03 assignments. It helps to really understand what you're doing instead of copy-pasting commands.
 
-# Week 04
+## Week 04: Virtual Memory & C Pointers
 
 1. [Virtual Memory: A Playlist](https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
 
@@ -58,7 +58,7 @@ permalink: LINKS/
 
   This week we delve deeper into C, with a highlight on pointers. My Week 02 links have been a good place to start, but the video above explains it in more detail.
 
-# Week 05
+## Week 05: Diving into Memory
 
 1. [Understanding Page Faults](https://www.site24x7.com/learn/linux/page-faults-memory-swapping.html)
 
@@ -72,7 +72,7 @@ permalink: LINKS/
 
   This article from Techtarget explains about Virtual vs Physical memory, as well as what address space is. The page also demonstrates how interconnected W04 and W05 are.
 
-# Week 06
+## Week 06: Kernel & Processes
 
 1. [Upgrading Linux Kernel](https://linuxhint.com/upgrade-linux-kernel-version-debian-10/)
 
