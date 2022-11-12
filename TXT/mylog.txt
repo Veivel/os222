@@ -50,3 +50,9 @@ ZCZC W06 100 L01 OS offline lecture at the auditorium (3 November)
 ZCZC W06 25 L05 Preparing for and doing Week 06 Quiz 2
 ZCZC W06 60 L05 Preparing for and doing Week 06 Quiz 1
 ZCZC W06 80 L16 Finishing Week 06 assignments and pop quiz.
+ZCZC W07 70 L06 Reading up on synchronization from OSC10
+ZCZC W07 30 L08 Asking friends about OS after missing class due to illness
+ZCZC W07 60 L06 Catching up on missed material for W07
+ZCZC W07 100 L17 Doing Week 07 assignments and pop quiz
+ZCZC W07 20 L05 Doing Week 07 Quiz 2
+ZCZC W07 40 L05 Preparing and doing Week 7 Quiz 1 

@@ -85,3 +85,17 @@ permalink: LINKS/
 3. [How to Clean a Linux Zombie](https://www.baeldung.com/linux/clean-zombie-process)
 
   One of the main points of interest this week were zombie & orphan processes. The page above helps to get a better understanding of zombies in particular.
+
+## Week 07: Synchronization
+
+1. [Critical Section Animation](https://youtu.be/6x_XMDCMyAk)
+
+  The critical section problem is an issue where there is a resource that can only be used by one process at a time, but multiple processes want to use it. That concept is visualized with an analogy by the video above, which helps to understand the criteria/conditions for solving this problem.
+
+2. [Operating Systems: Process Synchronization](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_Synchronization.html)
+
+  The page above is an excellent summary (though still very long and detailed) of the entire chapter of Synchronization, from its concept to different solutions like Peterson's Solution (software-based) and Semaphores (hardware solution). The page also includes snippets of C code to help us understand the problems and solutions in practice.
+
+3. [What is a semaphore?](https://youtu.be/ukM_zzrIeXs)
+
+  Aside from mutual exclusion (mutex), another approach that you can take in solving the critical section problem is using semaphores. The video above is quite informative and well-explained.
