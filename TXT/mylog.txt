@@ -56,3 +56,8 @@ ZCZC W07 60 L06 Catching up on missed material for W07
 ZCZC W07 100 L17 Doing Week 07 assignments and pop quiz
 ZCZC W07 20 L05 Doing Week 07 Quiz 2
 ZCZC W07 40 L05 Preparing and doing Week 7 Quiz 1 
+ZCZC W08 100 L01 OS online lecture via zoom (17 November)
+ZCZC W08 70 l06 Reading up on scheduling from OSC10
+ZCZC W08 45 L05 Doing Week 08 Quiz
+ZCZC W08 240 L18 Doing week 08 assignments (LFS) 
+ZCZC W08 60 L18 Doing Pop quiz

@@ -23,3 +23,7 @@ ZCZC W06 danenherdi
 ZCZC W07 divanyh
 ZCZC W07 dhafinn
 ZCZC W07 eldiralps
+# W08: 56 - 65
+ZCZC W08 emilicos
+ZCZC W08 emyr298
+ZCZC W08 fabianark

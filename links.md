@@ -99,3 +99,21 @@ permalink: LINKS/
 3. [What is a semaphore?](https://youtu.be/ukM_zzrIeXs)
 
   Aside from mutual exclusion (mutex), another approach that you can take in solving the critical section problem is using semaphores. The video above is quite informative and well-explained.
+
+## Week 08: Scheduling & Linux From Scratch
+
+1. [CPU Thread Scheduling PCS SCS](https://youtu.be/hnP2f51flGg)
+
+  This is a brief video that some concepts of thread scheduling such as the difference between user-level threads and kernel-level threads. The video explains that user-level threads are mapped to kernel-level threads, and also differentiates Process Contention Scope (PCS) with System Contention Scope (SCS). This video also uses the reference textbook OSC10.
+
+2. [Multi-processor Scheduling](https://www.scaler.com/topics/operating-system/multi-processor-scheduling/)
+
+  This article by Scaler elaborates how scheduling works in multiple processor systems and multi-core processors. They summarize concepts from this chapter very concisely.
+
+3. [Memahami BUG: soft lockup](https://nicolas.my.id/memahami-apa-itu-BUG-soft-lockup-CPU-X-stuck-for-XXs/)
+
+  This clean and useful article by Nicolas Julian explains a problem that some people and I encountered while building Linux from Scratch. The solution and explanation offered actually worked and allowed me to continue compiling packages without my debian host hanging :')
+
+4. [What is a Linux Swap Partition](https://www.makeuseof.com/tag/swap-partition/)
+
+  During the building of Linux from Scratch, I had to dig deeper into what the swap partition of /var/tmp.swapfile.bin was for, and what it actually did. Tip: Don't be like me, read Chapter 2.7 carefully and make sure you append the swap partition to /etc/fstab. 
