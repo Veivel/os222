@@ -117,3 +117,13 @@ permalink: LINKS/
 4. [What is a Linux Swap Partition](https://www.makeuseof.com/tag/swap-partition/)
 
   During the building of Linux from Scratch, I had to dig deeper into what the swap partition of /var/tmp.swapfile.bin was for, and what it actually did. Tip: Don't be like me, read Chapter 2.7 carefully and make sure you append the swap partition to /etc/fstab. 
+
+## Week 09: 
+
+1. [Mass-Storage Systems](https://www.cs.odu.edu/~price/cs471/public_html/spring17/lectures/MassStorage.htm)
+
+  The link above from CS Old Dominion University notes provides a good overview and explanation of mass storage structures and the different types of disk scheduling algorithms. It also goes into selecting which algorithm to choose and briefly about RAID.
+
+2. [Mass-Storage Structure UIC Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)
+
+  Another uni course note, but these seriously help me out. UIC Course Notes as always summarize Silbershcatz' OSC10 very concisely and this link goes into muchmore depth on RAID (Redundant Array of Inexpensive Disks) Structure than the previous one. Additionally this link explains performance issues of different mass storage structures.
